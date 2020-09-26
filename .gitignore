@@ -1,0 +1,5 @@
+venv
+static_in_env
+.env
+media_root
+dp.sqlite3

@@ -1,0 +1,10 @@
+installation : 
+
+
+python -m venv venv
+
+source venv/bin/activate
+
+pip install -r requierments.txt
+
+python manage.py runserver
